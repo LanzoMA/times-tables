@@ -2,6 +2,11 @@
 
 * A simple CLI program to test your times tables.
 
+# Prerequisites
+
+* GCC
+* Git
+
 # How to Build
 
 ```Bash
